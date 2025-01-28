@@ -36,18 +36,16 @@ This project demonstrates how to generate LLVM Intermediate Representation (IR) 
 ## What does this Program do?
 
 The program generates LLVM IR for a simple main function that returns the value 42. The generated IR looks like this:
-
-    ```llvm
+    
     define i32 @main() {
       ret i32 42
     }
-    ```
 
 ---
 
 ## Project Strucutre
-`generate_ir.c`: The main C program that uses the LLVM C API to generate LLVM IR.
-`README.md`: This file
+- `generate_ir.c`: The main C program that uses the LLVM C API to generate LLVM IR.
+- `README.md`: This file
 
 ---
 
