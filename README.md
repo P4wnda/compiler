@@ -49,6 +49,13 @@ The program generates LLVM IR for a simple main function that returns the value 
 
 ---
 
+## Resources
+
+- [LLVM Documentation](https://llvm.org/docs/)
+- [Kaleidoscope Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+- [LLVM C API Reference](https://llvm.org/doxygen/group__LLVMC.html)
+---
+
 ## License
 
 This project is licensed under the [MIT License](). 
